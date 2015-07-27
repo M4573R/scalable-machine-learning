@@ -1,4 +1,3 @@
-# scalable-machine-learning
 #BerkeleyX: CS190.1x, Scalable Machine Learning
 
 Machine learning aims to extract knowledge from data, relying on fundamental concepts in computer science, statistics, probability and optimization. Learning algorithms enable a wide range of applications, from everyday tasks such as product recommendations and spam filtering to bleeding edge applications like self-driving cars and personalized medicine. In the age of ‘Big Data,’ with datasets rapidly growing in size and complexity and cloud computing becoming more pervasive, machine learning techniques are fast becoming a core component of large-scale data processing pipelines.
